@@ -1,27 +1,27 @@
 ## irssi pushover
 
-This script sends you notification(s) using [pushover][1].
+This script sends you notification(s) using [pushover](https://pushover.net).
 It implements a delay (default 30sec) and requires you to be
 away to send the actual notification.
 
-I recommand using [autoaway.pl][3] for that purpose.
+I recommand using [autoaway.pl](https://github.com/irssi/scripts.irssi.org/blob/gh-pages/scripts/autoaway.pl) for that purpose.
 
 
 ## License
 
- DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-                    Version 2, December 2004 
-
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
-
- Everyone is permitted to copy and distribute verbatim or modified 
- copies of this license document, and changing it is allowed as long 
- as the name is changed. 
-
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
+> DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+>                    Version 2, December 2004 
+>
+> Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
+>
+> Everyone is permitted to copy and distribute verbatim or modified 
+> copies of this license document, and changing it is allowed as long 
+> as the name is changed. 
+>
+>            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+>   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+>
+>  0. You just DO WHAT THE FUCK YOU WANT TO.
 
 ## Todo
 
@@ -30,8 +30,5 @@ I recommand using [autoaway.pl][3] for that purpose.
 
 ## Thanks
 
-Inspired by [highlite.pl][2]
+Inspired by [highlite.pl](https://github.com/irssi/scripts.irssi.org/blob/gh-pages/scripts/highlite.pl)
 
-[1] https://pushover.net
-[2] https://github.com/irssi/scripts.irssi.org/blob/gh-pages/scripts/highlite.pl
-[3] https://github.com/irssi/scripts.irssi.org/blob/gh-pages/scripts/autoaway.pl
